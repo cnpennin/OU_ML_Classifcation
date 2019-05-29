@@ -1,4 +1,10 @@
 # seismoDL101
+This is a copy of the seismoDL101, however it has been modified to allow for a binder to be used to run it.  The orginal can be found below. 
+https://github.com/seismotologist/seismoDL101/
+
+binder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cnpennin/OU_Machine_learning/master)
+
 Tutorial on seismic signal/noise classification; from linear to deep classifiers
 
 This jupyter notebook tutorial is meant to be a general introduction to machine
