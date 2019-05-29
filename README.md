@@ -3,7 +3,7 @@ This is a copy of the seismoDL101, however it has been modified to allow for a b
 https://github.com/seismotologist/seismoDL101/
 
 binder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cnpennin/OU_Machine_learning/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cnpennin/OU_ML_Classifcation/master)
 
 Tutorial on seismic signal/noise classification; from linear to deep classifiers
 
